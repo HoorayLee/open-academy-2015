@@ -11,7 +11,7 @@ Generously to share what you think useful and accumulate the green squares in yo
 * 请把自己的 Github 账号发送给罗明东以便邀请加入
 * 加入后请 [点此链接](https://github.com/orgs/scuol/people) 并将您的状态改成 public
 * 积极参与贡献，分享您觉得有用的信息，为您的主页获得更多的小绿块 :)
-* 如何贡献：fork 这个 repository，修改任何文件，push 到自己 fork 的 repository，创建 pull request
+* 如何贡献：fork 这个 repository，修改任何文件，push 到自己的 repository，创建 pull request
 
 ### Teams
 
