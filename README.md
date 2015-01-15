@@ -24,7 +24,7 @@ Generously share what you think useful and accumulate the green squares in your 
 
 * [软件学院课程网站 GSDP 课程](http://swjx.scu.edu.cn/moodle/course/view.php?id=6322)
 * [Facebook Open Academy 2015 Group](https://www.facebook.com/groups/1382084198753265/)
-* [科学上网/VPS 推荐](https://www.digitalocean.com/?refcode=e3acd48547b7)
+* [科学上网/VPS 推荐](https://www.digitalocean.com/?refcode=e3acd48547b7) (通过此链接注册可获得10$优惠)
 
 ### Useful Software
 
