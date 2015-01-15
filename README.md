@@ -22,10 +22,5 @@ Generously to share what you think useful and accumulate the green squares in yo
 
 ### Documents
 
-##### git&Github
-
-* [git](https://github.com/scuol/open-academy-2015/blob/master/document/git.md)
-
-##### Javascript
-
+* [Git&Github](https://github.com/scuol/open-academy-2015/blob/master/document/git.md)
 * [Javascript](https://github.com/scuol/open-academy-2015/blob/master/document/javascript.md)
