@@ -3,10 +3,20 @@
 ### Introduction
 
 
-### Members
+
+### Teams
+
+
+
+##### Mingdong's team
+- 罗明东 @mdluo
+- 王天晴 @secondwtq
+- 岳天阳 @Windas
+
 
 
 ### Useful Links
+
 
 
 ### Documents
