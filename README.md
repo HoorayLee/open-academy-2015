@@ -4,7 +4,7 @@
 
 The Open Academy program participants' repository for learning using Git&Gihub as well as sharing useful documents, links and tutorials.
 
-Generously to share what you think useful and accumulate the green squares in your contributions calendar.
+Generously share what you think useful and accumulate the green squares in your contributions calendar.
 
 ### Announcement
 
