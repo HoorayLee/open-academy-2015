@@ -2,7 +2,7 @@
 
 ### Introduction
 
-The Open Academy program participants' repository for learning using git&Gihub as well as sharing useful documents, links and tutorials.
+The Open Academy program participants' repository for learning using Git&Gihub as well as sharing useful documents, links and tutorials.
 
 Generously to share what you think useful and accumulate the green squares in your contributions calendar.
 
@@ -24,3 +24,5 @@ Generously to share what you think useful and accumulate the green squares in yo
 
 * [Git&Github](https://github.com/scuol/open-academy-2015/blob/master/document/git.md)
 * [Javascript](https://github.com/scuol/open-academy-2015/blob/master/document/javascript.md)
+* [MarkDown](https://github.com/scuol/open-academy-2015/blob/master/document/markdown.md)
+* [MongoDB](https://github.com/scuol/open-academy-2015/blob/master/document/mongodb.md)
