@@ -31,7 +31,7 @@ Generously share what you think useful and accumulate the green squares in your 
 * [Github for Windows](https://windows.github.com/)
 * [Github for Mac](https://mac.github.com/)
 * [Atom](https://atom.io/)
-* [Brackets](https://atom.io/)
+* [Brackets](http://brackets.io/)
 * [Sublime Text](http://www.sublimetext.com/3)
 * [Shadowsocks](http://shadowsocks.org/)
 
