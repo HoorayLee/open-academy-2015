@@ -20,3 +20,6 @@ The Open Academy program participants' repository for learning using git&Gihub a
 
 ### Documents
 
+##### Git
+
+* [Git](https://github.com/scuol/open-academy-2015/blob/master/document/git.md)
