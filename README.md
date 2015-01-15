@@ -2,7 +2,7 @@
 
 ### Introduction
 
-The Open Academy program participants' repository for learning using Git&Gihub as well as sharing useful documents, links and tutorials.
+The Open Academy program participants' repository for learning using Git & Gihub as well as sharing useful documents, links and tutorials.
 
 Generously share what you think useful and accumulate the green squares in your contributions calendar.
 
@@ -24,10 +24,24 @@ Generously share what you think useful and accumulate the green squares in your 
 
 * [软件学院课程网站 GSDP 课程](http://swjx.scu.edu.cn/moodle/course/view.php?id=6322)
 * [Facebook Open Academy 2015 Group](https://www.facebook.com/groups/1382084198753265/)
+* [科学上网/VPS 推荐](https://www.digitalocean.com/?refcode=e3acd48547b7)
+
+### Useful Software
+
+* [Github for Windows](https://windows.github.com/)
+* [Github for Mac](https://mac.github.com/)
+* [Atom](https://atom.io/)
+* [Brackets](https://atom.io/)
+* [Sublime Text](http://www.sublimetext.com/3)
+* [Shadowsocks](http://shadowsocks.org/)
+
+### Useful Frameworks & Librarys
+
 
 ### Documents
 
-* [Git&Github](https://github.com/scuol/open-academy-2015/blob/master/document/git.md)
+* [Git & Github](https://github.com/scuol/open-academy-2015/blob/master/document/git.md)
 * [Javascript](https://github.com/scuol/open-academy-2015/blob/master/document/javascript.md)
 * [MarkDown](https://github.com/scuol/open-academy-2015/blob/master/document/markdown.md)
 * [MongoDB](https://github.com/scuol/open-academy-2015/blob/master/document/mongodb.md)
+* [Ruby](https://github.com/scuol/open-academy-2015/blob/master/document/ruby.md)
