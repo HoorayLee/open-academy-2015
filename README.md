@@ -4,6 +4,8 @@
 
 The Open Academy program participants' repository for learning using git&Gihub as well as sharing useful documents, links and tutorials.
 
+Generously to share what you think useful and accumulate the green squares in your contributions calendar.
+
 ### Announcement
 
 ### Teams
@@ -20,6 +22,10 @@ The Open Academy program participants' repository for learning using git&Gihub a
 
 ### Documents
 
-##### Git
+##### git&Github
 
-* [Git](https://github.com/scuol/open-academy-2015/blob/master/document/git.md)
+* [git](https://github.com/scuol/open-academy-2015/blob/master/document/git.md)
+
+##### Javascript
+
+* [Javascript](https://github.com/scuol/open-academy-2015/blob/master/document/javascript.md)
