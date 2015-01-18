@@ -19,6 +19,10 @@ Generously share what you think useful and accumulate the green squares in your 
   * 罗明东 @[mdluo](https://github.com/mdluo)
   * 王天晴 @[secondwtq](https://github.com/secondwtq)
   * 岳天阳 @[Windas](https://github.com/Windas)
+* Mingyi's team
+  * 陈明毅 @[imcmy](https://github.com/imcmy)
+  * 陈思行 @[seanchain](https://github.com/seanchain)
+  * 夏之雨
 
 ### Useful Links
 
