@@ -22,7 +22,10 @@ Generously share what you think useful and accumulate the green squares in your 
   * 陈明毅 @[imcmy](https://github.com/imcmy)
   * 陈思行 @[seanchain](https://github.com/seanchain)
   * 夏之雨
-
+* Yu Min's team
+  * 闵钰   @[uyiqgyy](https://github.com/uyiqgyy) 
+  * 浦岸峰 @[PuAnfeng](https://github.com/PuAnfeng)
+  * 邵一鸣 @[mrrllbb](https://github.com/mrrllbb)
 ### Useful Links
 
 * [软件学院课程网站 GSDP 课程](http://swjx.scu.edu.cn/moodle/course/view.php?id=6322)
