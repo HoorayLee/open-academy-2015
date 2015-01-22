@@ -4,7 +4,7 @@
 
 The Open Academy program participants' repository for learning using Git & Gihub as well as sharing useful documents, links and tutorials.
 
-Generously share what you think useful and accumulate the green squares in your contributions calendar.
+Generously share what you think useful and accumulate the green squares in your contributions calendar :)
 
 ### Announcement
 
@@ -23,7 +23,7 @@ Generously share what you think useful and accumulate the green squares in your 
   * 陈思行 @[seanchain](https://github.com/seanchain)
   * 夏之雨
 * Yu Min's team
-  * 闵钰   @[uyiqgyy](https://github.com/uyiqgyy) 
+  * 闵钰   @[uyiqgyy](https://github.com/uyiqgyy)
   * 浦岸峰 @[PuAnfeng](https://github.com/PuAnfeng)
   * 邵一鸣 @[mrrllbb](https://github.com/mrrllbb)
 
@@ -43,8 +43,9 @@ Generously share what you think useful and accumulate the green squares in your 
 * [Sublime Text](http://www.sublimetext.com/3)
 * [Shadowsocks](http://shadowsocks.org/)
 
-### Useful Frameworks & Librarys
+### Frameworks & Librarys
 
+* [Rails](http://rubyonrails.org/)
 
 ### Documents
 
